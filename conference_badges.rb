@@ -31,11 +31,11 @@ def printer(array)
   end
 end 
 
-def printer(badge)
+#def printer(badge)
   batch_badge_creator(array)
   
   
-end
+#end
 
 
 

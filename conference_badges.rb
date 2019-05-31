@@ -30,12 +30,3 @@ def printer(array)
     puts result 
   end
 end 
-
-#def printer(badge)
-  #atch_badge_creator(array)
-  
-  
-#end
-
-
-

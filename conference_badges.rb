@@ -30,12 +30,12 @@ def printer(array)
     puts result 
   end
 end 
-=======
+
 def printer(badge)
   batch_badge_creator(array)
   
   end
 end
 
->>>>>>> 7d506d7acdf85aa7005e0766f2c34b6514684cfa
+
 

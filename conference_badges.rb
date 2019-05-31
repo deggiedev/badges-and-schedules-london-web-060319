@@ -32,7 +32,7 @@ def printer(array)
 end 
 
 #def printer(badge)
-  batch_badge_creator(array)
+  #atch_badge_creator(array)
   
   
 #end
